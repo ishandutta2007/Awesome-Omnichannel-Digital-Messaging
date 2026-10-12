@@ -1,6 +1,6 @@
 # Awesome-Omnichannel-Digital-Messaging
 
-# Top Omnichannel Digital Messaging Tools Ecosystem
+## Top Omnichannel Digital Messaging Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Unified Customer Messaging, Multi-Channel APIs & Real-Time Conversations*  
