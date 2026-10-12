@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Digital-Messaging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Omnichannel-Digital-Messaging?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Digital-Messaging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Omnichannel-Digital-Messaging?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Digital-Messaging/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Omnichannel-Digital-Messaging?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Digital-Messaging/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Omnichannel-Digital-Messaging" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Digital-Messaging/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
@@ -62,49 +62,49 @@ Rather than developing into a pure winner-take-all monopoly, the industry displa
 
 Curated open-source projects for self-hosting, full data ownership, privacy compliance, and developer extensibility, sorted by GitHub popularity:
 
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
   🚀 Open-source team communication and customer messaging platform with omnichannel live chat, WhatsApp, and SMS integrations.
-- **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
+- **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub_Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
   🤖 Open-source AI chat platform with multi-channel messaging support and extensible plugin architecture for unified conversational interfaces.
-- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   🔔 Open-source notification infrastructure with unified API for in-app, email, SMS, push, and chat messages with digest orchestration.
-- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
   💬 Open-source collaboration and secure messaging platform with extensible webhooks and bot integrations for customer conversations.
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   🎯 Open-source omnichannel customer engagement platform supporting live chat, email, WhatsApp, Facebook, Instagram, SMS, and Telegram. Self-hosted alternative to Intercom and Zendesk. MIT licensed.
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
   📹 Open-source video conferencing with integrated real-time text chat and SIP gateway for unified communication systems.
-- **[Zulip](https://github.com/zulip/zulip)** [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
+- **[Zulip](https://github.com/zulip/zulip)** [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
   ⚡ Open-source team chat and messaging tool featuring organized topic-based threading, mobile clients, and webhooks for customer ticket integration.
-- **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
+- **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
   💼 Open-source CRM with omnichannel communication features including email, SMS, and chat integration for sales engagement.
-- **[LiveKit](https://github.com/livekit/livekit)** [![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+- **[LiveKit](https://github.com/livekit/livekit)** [![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
   🎙️ End-to-end open-source WebRTC stack for real-time audio, video, and multi-modal conversational messaging infrastructure.
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   🧠 Open-source conversational AI platform enabling multi-channel bot deployments across WhatsApp, Telegram, Slack, Web Chat, and Messenger.
-- **[Element Web](https://github.com/vector-im/element-web)** [![GitHub stars](https://img.shields.io/github/stars/vector-im/element-web?style=social&color=white)](https://github.com/vector-im/element-web/stargazers)  
+- **[Element Web](https://github.com/vector-im/element-web)** [![GitHub_Stars](https://img.shields.io/github/stars/vector-im/element-web?style=social&color=white)](https://github.com/vector-im/element-web/stargazers)  
   🛡️ Feature-rich Matrix collaboration web client supporting federated end-to-end encrypted messaging and bridging networks.
-- **[Tinode](https://github.com/tinode/chat)** [![GitHub stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers)  
+- **[Tinode](https://github.com/tinode/chat)** [![GitHub_Stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers)  
   📱 Open-source instant messaging platform with chat bots, video calls, and multi-device synchronization for custom digital apps.
-- **[Signal Server](https://github.com/signalapp/Signal-Server)** [![GitHub stars](https://img.shields.io/github/stars/signalapp/Signal-Server?style=social&color=white)](https://github.com/signalapp/Signal-Server/stargazers)  
+- **[Signal Server](https://github.com/signalapp/Signal-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/signalapp/Signal-Server?style=social&color=white)](https://github.com/signalapp/Signal-Server/stargazers)  
   🔒 Open-source server backend supporting secure, end-to-end encrypted private messaging across mobile and desktop clients.
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   ✨ Open-source conversational app builder allowing embedded web and WhatsApp form automation for omnichannel interactions.
-- **[Fonoster](https://github.com/fonoster/fonoster)** [![GitHub stars](https://img.shields.io/github/stars/fonoster/fonoster?style=social&color=white)](https://github.com/fonoster/fonoster/stargazers)  
+- **[Fonoster](https://github.com/fonoster/fonoster)** [![GitHub_Stars](https://img.shields.io/github/stars/fonoster/fonoster?style=social&color=white)](https://github.com/fonoster/fonoster/stargazers)  
   📞 Open-source alternative to Twilio for programmable voice, messaging, and conversational IVR pipelines.
-- **[Matterbridge](https://github.com/42wim/matterbridge)** [![GitHub stars](https://img.shields.io/github/stars/42wim/matterbridge?style=social&color=white)](https://github.com/42wim/matterbridge/stargazers)  
+- **[Matterbridge](https://github.com/42wim/matterbridge)** [![GitHub_Stars](https://img.shields.io/github/stars/42wim/matterbridge?style=social&color=white)](https://github.com/42wim/matterbridge/stargazers)  
   🌉 Universal bridge between multiple chat protocols (Slack, Discord, Telegram, IRC, Matrix, and more) for multi-network sync.
-- **[Ejabberd](https://github.com/processone/ejabberd)** [![GitHub stars](https://img.shields.io/github/stars/processone/ejabberd?style=social&color=white)](https://github.com/processone/ejabberd/stargazers)  
+- **[Ejabberd](https://github.com/processone/ejabberd)** [![GitHub_Stars](https://img.shields.io/github/stars/processone/ejabberd?style=social&color=white)](https://github.com/processone/ejabberd/stargazers)  
   🌐 Robust XMPP server for scalable messaging with mobile push, multi-protocol support, and high concurrency.
-- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
+- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
   💬 Open-source live customer chat platform with Slack, email, and SMS integrations. Self-hostable alternative to Intercom.
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   🎫 Open-source helpdesk and customer support system with omnichannel messaging via email, chat, Telegram, Facebook, and SMS.
-- **[Matrix Synapse](https://github.com/element-hq/synapse)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
+- **[Matrix Synapse](https://github.com/element-hq/synapse)** [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
   🏛️ Reference homeserver for the Matrix decentralized communication protocol, enabling federated chat across bridges.
-- **[Jitsi Core](https://github.com/jitsi/jitsi)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi?style=social&color=white)](https://github.com/jitsi/jitsi/stargazers)  
+- **[Jitsi Core](https://github.com/jitsi/jitsi)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi?style=social&color=white)](https://github.com/jitsi/jitsi/stargazers)  
   📡 Open-source audio/video and SIP communicator engine for unified communication systems.
-- **[Mautrix WhatsApp](https://github.com/mautrix/whatsapp)** [![GitHub stars](https://img.shields.io/github/stars/mautrix/whatsapp?style=social&color=white)](https://github.com/mautrix/whatsapp/stargazers)  
+- **[Mautrix WhatsApp](https://github.com/mautrix/whatsapp)** [![GitHub_Stars](https://img.shields.io/github/stars/mautrix/whatsapp?style=social&color=white)](https://github.com/mautrix/whatsapp/stargazers)  
   🔄 Matrix-to-WhatsApp bridge allowing bi-directional messaging between decentralized Matrix rooms and WhatsApp chats.
 
 ### 🌐 Additional Notable Bridges & Ecosystem Protocols
